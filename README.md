@@ -38,3 +38,6 @@ Use [Repl Link](https://replit.com/@LawlessFellas/LawlessFellas#main.py) to get 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Infinity BOTs](https://t.me/Infinity_BOTs)
+
+### Support & Updates 🎑
+<a href="https://t.me/Lawless_Fellas_Hub"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Lawless_Updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
