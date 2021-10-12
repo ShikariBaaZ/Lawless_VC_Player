@@ -30,7 +30,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/Lawless_VC_Player)
 
-Use [Repl Link](https://replit.com/@DevdasParkash/LawlessMusic#main.py) to get pyrogram string session
+Use [Repl Link](https://replit.com/@LawlessFellas/LawlessFellas#main.py) to get pyrogram string session
 
 ### Credits
 - [SHIKARI](https://github.com/ShikariBaaZ): Dev
