@@ -32,8 +32,13 @@
 
 Use [Repl Link](https://replit.com/@LawlessFellas/LawlessFellas#main.py) to get pyrogram string session
 
-### Credits
+### Special Credits 💖
+- [SAM](LAWLESS OWNER): Dev
+- [❤️JANA❤️]: Dev
+- [JOEY] : Dev
 - [SHIKARI](https://github.com/ShikariBaaZ): Dev
+
+### Credits
 - [InukaASiTH](https://github.com/ImJanindu): Infinity Bots
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
